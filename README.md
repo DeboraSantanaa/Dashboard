@@ -1,4 +1,4 @@
-# Modulo 4 - Visualizando a situacao
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=509&height=80&lines=Projeto+Modulo+4+-+Visualizando+a+Situa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 # NBA Star 
 
