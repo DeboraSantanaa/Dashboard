@@ -1,6 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0366C5&width=497&height=80&lines=Projeto++em+Grupo+-+Modulo+4)](https://git.io/typing-svg)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0366C5&width=509&height=80&lines=NBA+)](https://git.io/typing-svg)
+
+![nbafundo2](https://user-images.githubusercontent.com/113525688/214936504-979de8f5-ce26-499c-975c-53629f03e1f9.png)
+
+
 
 ## Objetivo
 Nesse projeto você e sua squad deverão montar <br>
@@ -48,12 +51,26 @@ dados selecionado
 
 
 
+
+ <br>
+
 ## Ideação/Brainstorm perguntas que podem ser respondidas pelos dados
-Baseada nas informações do Banco de Dados foi elaborada algumas perguntas para ter o retorno das consultas.
-As perguntas podem ser visualizadas no link a seguir : [NBA](https://visualizando-a-situacao.vercel.app/)
+Baseada nas informações do Banco de Dados foi elaborada algumas perguntas para ter o retorno das consultas. <br>
+As perguntas podem ser visualizadas no link a seguir ➥ [NBA](https://visualizando-a-situacao.vercel.app/) <br>
 junto com o comando utilizado no MySQL para o retorno das respostas.
 
-🛠️ Ferramentas utilizadas <br> <br>
+
+<br>
+ 
+## Gráficos
+Modelagem dos Gráficos
+![Grafico1](https://user-images.githubusercontent.com/113525688/214934016-758348f9-e0c8-4d0f-9af8-ecbce7cca486.png)
+![Grafico2](https://user-images.githubusercontent.com/113525688/214934079-b1ab7392-9dc5-421c-b6ec-4067db7633d2.png)
+
+
+
+
+## 🛠️ Ferramentas utilizadas <br> <br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>  <br> 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <br>
