@@ -51,7 +51,7 @@ dados selecionado
 ## Ideação/Brainstorm perguntas que podem ser respondidas pelos dados
 
 
-🛠️ Ferramentas utilizadas
+🛠️ Ferramentas utilizadas <br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>   
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
