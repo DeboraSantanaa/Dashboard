@@ -53,3 +53,7 @@ dados selecionado
 
 
 
+## Equipe
+| [<img src="https://avatars.githubusercontent.com/u/113525360?v=4" width=115><br><sub>Laís Duarte</sub>](https://github.com/laisduarte07) |  [<img src="https://avatars.githubusercontent.com/u/112408111?v=4" width=115><br><sub>Luiz Felipe</sub>](https://github.com/LuizMatt97) |  [<img src="https://avatars.githubusercontent.com/u/112822398?v=4" width=115><br><sub>Felipe Costa</sub>](https://github.com/CrvgFelipe) | [<img src="https://avatars.githubusercontent.com/u/112409835?v=4" width=115><br><sub>Emanuele Oliveira</sub>](https://github.com/ogolipe) | [<img src="https://avatars.githubusercontent.com/u/113260575?v=4" width=115><br><sub>Lucas Salustriano</sub>](https://github.com/lcsalustriano)
+| :---: | :---: | :---: | :---: | :---: |
+
