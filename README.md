@@ -3,9 +3,9 @@
 # NBA Star 
 
 ## Objetivo
-Nesse projeto você e sua squad deverão montar
-um dashboard com base no conjunto de dados
-escolhidos por vocês, a fim de realizar uma
+Nesse projeto você e sua squad deverão montar <br>
+um dashboard com base no conjunto de dados <br>
+escolhidos pela equipe, a fim de realizar uma <br>
 apresentação com a exploração dos dados.
  
  Tema : NBA 🏀 
