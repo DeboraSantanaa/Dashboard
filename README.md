@@ -1,8 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0366C5&width=497&height=80&lines=Projeto++em+Grupo+-+Modulo+4)](https://git.io/typing-svg)
 
-
 ![nbafundo2](https://user-images.githubusercontent.com/113525688/214936504-979de8f5-ce26-499c-975c-53629f03e1f9.png)
-
 
 
 ## Objetivo
@@ -52,9 +50,9 @@ dados selecionado
 
 
 
- <br>
+<br>
 
-## Ideação/Brainstorm perguntas que podem ser respondidas pelos dados
+## Ideação/Brainstorm perguntas que podem ser respondidas pelos dados 🏀
 Baseada nas informações do Banco de Dados foi elaborada algumas perguntas para ter o retorno das consultas. <br>
 As perguntas podem ser visualizadas no link a seguir ➥ [NBA](https://visualizando-a-situacao.vercel.app/) <br>
 junto com o comando utilizado no MySQL para o retorno das respostas.
@@ -62,7 +60,7 @@ junto com o comando utilizado no MySQL para o retorno das respostas.
 
 <br>
  
-## Gráficos
+## Gráficos  🏀
 Modelagem dos Gráficos
 ![Grafico1](https://user-images.githubusercontent.com/113525688/214934016-758348f9-e0c8-4d0f-9af8-ecbce7cca486.png)
 ![Grafico2](https://user-images.githubusercontent.com/113525688/214934079-b1ab7392-9dc5-421c-b6ec-4067db7633d2.png)
@@ -81,7 +79,7 @@ Modelagem dos Gráficos
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 
 
-## Equipe
+## Equipe  🏀
 | [<img src="https://avatars.githubusercontent.com/u/113525360?v=4" width=115><br><sub>Laís Duarte</sub>](https://github.com/laisduarte07) |  [<img src="https://avatars.githubusercontent.com/u/113525442?v=4" width=115><br><sub>Lucas Fernando</sub>](https://github.com/LucasFToddy) |  [<img src="https://avatars.githubusercontent.com/u/87791042?v=4" width=115><br><sub>Marcos Willian</sub>](https://github.com/marcosmwx) | [<img src="https://avatars.githubusercontent.com/u/113530214?v=4" width=115><br><sub>Gustavo Aguiar</sub>](https://github.com/Aguiargustavo) | [<img src="https://avatars.githubusercontent.com/u/113525688?v=4" width=115><br><sub>Débora Santana</sub>](https://github.com/DeboraSantanaa)
 | :---: | :---: | :---: | :---: | :---: |
 
