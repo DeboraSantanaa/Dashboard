@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C52F2F&width=509&height=80&lines=Projeto+M%C3%B3dulo+4+-+Visualizando+a+Situa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C52F2F&width=509&height=80&lines=Projeto+M%C3%B3dulo+4+-+Visualizando+a+Situa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=2B15C5&width=509&height=80&lines=NBA+)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0366C5&width=509&height=80&lines=NBA+)](https://git.io/typing-svg)
 
 ## Objetivo
 Nesse projeto você e sua squad deverão montar <br>
