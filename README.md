@@ -54,6 +54,6 @@ dados selecionado
 
 
 ## Equipe
-| [<img src="https://avatars.githubusercontent.com/u/113525360?v=4" width=115><br><sub>Laís Duarte</sub>](https://github.com/laisduarte07) |  [<img src="https://avatars.githubusercontent.com/u/112408111?v=4" width=115><br><sub>Luiz Felipe</sub>](https://github.com/LuizMatt97) |  [<img src="https://avatars.githubusercontent.com/u/112822398?v=4" width=115><br><sub>Felipe Costa</sub>](https://github.com/CrvgFelipe) | [<img src="https://avatars.githubusercontent.com/u/112409835?v=4" width=115><br><sub>Emanuele Oliveira</sub>](https://github.com/ogolipe) | [<img src="https://avatars.githubusercontent.com/u/113260575?v=4" width=115><br><sub>Lucas Salustriano</sub>](https://github.com/lcsalustriano)
+| [<img src="https://avatars.githubusercontent.com/u/113525360?v=4" width=115><br><sub>Laís Duarte</sub>](https://github.com/laisduarte07) |  [<img src="https://avatars.githubusercontent.com/u/113525442?v=4" width=115><br><sub>Lucas Fernando</sub>](https://github.com/LucasFToddy) |  [<img src="https://avatars.githubusercontent.com/u/87791042?v=4" width=115><br><sub>Marcos Willian</sub>](https://github.com/marcosmwx) | [<img src="https://avatars.githubusercontent.com/u/113530214?v=4" width=115><br><sub>Gustavo Aguiar</sub>](https://github.com/Aguiargustavo) | [<img src="https://github.com/DeboraSantanaa" width=115><br><sub>Débora Santana</sub>](https://github.com/DeboraSantanaa)
 | :---: | :---: | :---: | :---: | :---: |
 
