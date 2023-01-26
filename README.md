@@ -52,6 +52,7 @@ dados selecionado
 
 
 🛠️ Ferramentas utilizadas
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>   
 <img src="{[BadgeURLHere](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)}" />
 https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
 	<img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white />
