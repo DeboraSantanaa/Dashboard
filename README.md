@@ -49,7 +49,9 @@ dados selecionado
 
 
 ## Ideação/Brainstorm perguntas que podem ser respondidas pelos dados
-
+Baseada nas informações do Banco de Dados foi elaborada algumas perguntas para ter o retorno das consultas.
+As perguntas podem ser visualizadas no link a seguir : [ e visualizando-a-situacao.vercel.app](https://visualizando-a-situacao.vercel.app/)
+junto com o comando utilizado no MySQL para o retorno das respostas.
 
 🛠️ Ferramentas utilizadas <br> <br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>  <br> 
