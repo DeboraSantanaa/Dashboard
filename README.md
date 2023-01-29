@@ -55,13 +55,22 @@ dados selecionado
 ## Ideação/Brainstorm perguntas que podem ser respondidas pelos dados 🏀
 Baseada nas informações do Banco de Dados foi elaborada algumas perguntas para ter o retorno das consultas. <br>
 As perguntas podem ser visualizadas no link a seguir ➥ [NBA](https://visualizando-a-situacao.vercel.app/) <br>
-junto com o comando utilizado no MySQL para o retorno das respostas.
+junto com o comando utilizado no MySQL para o retorno das respostas. 
+
+
+Ao clicar no botão copiar o comando "Select" é automaticamente copiado sendo <br>
+assim é possivel colar no MySQL e ele exibirá a resposta correspondente a pergunta exibida no site. 
+
+
+## Prévia do Site 🏀
+![videonba](https://user-images.githubusercontent.com/113525688/215354768-743052df-960f-4311-a8e3-747c6dc7f9dc.gif)
 
 
 <br>
  
-## Gráficos  🏀
-Modelagem dos Gráficos
+## Prévia dos Gráficos  🏀
+Para uma melhor visualização e análise de dados, <br>
+é possivel fazer o download do Dashboard que está presente nos arquivos.
 ![Grafico1](https://user-images.githubusercontent.com/113525688/214934016-758348f9-e0c8-4d0f-9af8-ecbce7cca486.png)
 ![Grafico2](https://user-images.githubusercontent.com/113525688/214934079-b1ab7392-9dc5-421c-b6ec-4067db7633d2.png)
 
@@ -82,4 +91,7 @@ Modelagem dos Gráficos
 ## Equipe  🏀
 | [<img src="https://avatars.githubusercontent.com/u/113525360?v=4" width=115><br><sub>Laís Duarte</sub>](https://github.com/laisduarte07) |  [<img src="https://avatars.githubusercontent.com/u/113525442?v=4" width=115><br><sub>Lucas Fernando</sub>](https://github.com/LucasFToddy) |  [<img src="https://avatars.githubusercontent.com/u/87791042?v=4" width=115><br><sub>Marcos Willian</sub>](https://github.com/marcosmwx) | [<img src="https://avatars.githubusercontent.com/u/113530214?v=4" width=115><br><sub>Gustavo Aguiar</sub>](https://github.com/Aguiargustavo) | [<img src="https://avatars.githubusercontent.com/u/113525688?v=4" width=115><br><sub>Débora Santana</sub>](https://github.com/DeboraSantanaa)
 | :---: | :---: | :---: | :---: | :---: |
+
+
+
 
